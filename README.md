@@ -47,4 +47,4 @@ Feel free to fork this repository, create feature branches, and submit pull requ
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----"# Event-Management-System-app" 
+---
